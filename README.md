@@ -2,7 +2,7 @@
  
  - 🔭 I’m currently Studying Computer Science (3/8) at UNICAP
 
-- 🌱 I’m currently learning **C and C++**
+- 🌱 I’m learning **C and C++**
 
 - 📫 How to reach me **vinimteti@gmail.com**
 
