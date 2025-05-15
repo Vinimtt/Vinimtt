@@ -1,10 +1,8 @@
 <h1 align="center">Hello, I'm Vinícius;</h1>
  
- - 🔭 I’m currently Studying Computer Science (4/8) at UNICAP
+ - 🔭 I’m currently Studying Computer Science (5/8) at UNICAP
 
-- 🌱 Currently learning **C and Java (OOP)**
-
-- 📫 How to reach me **vinimteti@gmail.com**
+- 🌱 Currently learning **MySQL and Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
