@@ -9,7 +9,6 @@
 ### About Me:
 
 * I’m currently studying Computer Science (6/8) at UNICAP.
-* Currently learning **MySQL and Java**.
 
 ### Connect with me:
 
